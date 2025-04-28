@@ -1,6 +1,9 @@
-function Home(){
-    return <h1>Teste</h1>
-    
+function Home() {
+  return <h1>Teste</h1>;
 }
 
-export  default Home;
+function teste() {
+  console.log("Teste");
+}
+
+export default Home;
